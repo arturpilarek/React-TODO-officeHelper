@@ -1,0 +1,30 @@
+@import '_variables';
+
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.title__wrapper {
+  display: flex;
+  gap: 1em;
+}
+
+.title__wrapper h1 {
+  color: $primary-color;
+  font-size: 1.3rem;
+}
+
+
+.btn {
+  font-family: $font-stack;
+  font-weight: bold;
+  padding: 0.8rem 1.6rem;
+  border: none;
+  border-radius: 8px;
+  color: $accent-color;
+  background-color: $secondary-color;
+}

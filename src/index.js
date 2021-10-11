@@ -1,12 +1,11 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import "./main.css"
+import App from "./App";
+import "./main.scss"
 
 const UserList = () => {
   return (
-    <div className="body">
-      <h1 className="title">Artur's React Template</h1>
-    </div>
+    <App />
   )
 }
 
