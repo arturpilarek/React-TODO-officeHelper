@@ -1,5 +1,9 @@
 @import "_variables";
 
+.form__wrapper:first-child{
+  margin-top: 1em;
+}
+
 .form__wrapper {
   display: flex;
   flex-direction: column;
@@ -22,7 +26,7 @@
 }
 
 .btn__input {
-  margin-top: 0.5rem;
+  margin:0.5rem 0;
   width: 100%;
   background-color: $secondary-color;
   color: $accent-color;

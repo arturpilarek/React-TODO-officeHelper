@@ -3,7 +3,11 @@
   max-width: 400px;
   background-color: white;
   margin: 0 auto;
-  margin-top: 3rem;
+  margin-top: 1rem;
   border-radius: 16px;
   padding: 1em;
+}
+
+.main__container:first-child {
+  margin-top: 3em;
 }

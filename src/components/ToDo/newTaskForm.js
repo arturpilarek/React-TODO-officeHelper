@@ -16,7 +16,6 @@ const NewTaskForm = ({newTask}) => {
         setName('')
         setDate('')
         setDone(false)
-        console.log(newTask)
     }
     return (
         <form className="form"  onSubmit={onSubmit}>

@@ -1,11 +1,9 @@
 @import '_variables';
 
 .header {
-  margin-bottom: 1em;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-  gap: 3em;
 }
 
 .title__wrapper {
@@ -16,7 +14,7 @@
 
 .title__wrapper h1 {
   color: $primary-color;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .title__wrapper img {

@@ -6,20 +6,27 @@ import NewTaskForm from "./newTaskForm";
 import {useState} from "react";
 
 const ToDo = () => {
+    const [taskVisible, setAddTask] = useState(true)
     const [tasks, setTask] = useState([
         {
             id: 1,
-            name: 'Do Something',
+            name: 'Click me twice to mark as done',
             date: 'Today',
-            done: true
+            done: false
         },
         {
             id: 2,
-            name: 'Wash Dishes',
-            date: 'Tomorrow',
-            done: false
+            name: 'Add New Task',
+            date: 'Today',
+            done: true
         }
     ])
+
+    const toggleTaskVisibility = () => {
+        setAddTask(
+            !taskVisible
+        )
+    }
 
     const deleteTask = (id) => {
         setTask(tasks.filter((task) => task.id !== id))
@@ -41,9 +48,11 @@ const ToDo = () => {
     }
     return (
         <div className="main__container">
-            <Header />
+            <Header showTasks={toggleTaskVisibility} taskVisible={taskVisible} />
+            {taskVisible && <>
             <NewTaskForm newTask={addTask}/>
             <Tasks deleteTask={deleteTask} toggleTaskDone={toggleTaskDone} tasks={tasks} />
+            </>}
         </div>
     );
 };
