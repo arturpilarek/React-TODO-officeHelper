@@ -1,7 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom"
 import App from "./App";
-import "./main.scss"
+import "./components/ToDo/Styles/main.scss"
 
 const UserList = () => {
   return (

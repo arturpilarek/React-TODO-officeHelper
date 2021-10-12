@@ -2,22 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b5bf253-a151-48fc-a5d0-c8a53cbf2826" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tasks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ToDo/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ToDo/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ToDo/Styles/__variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ToDo/Styles/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ToDo/Styles/toDo.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ToDo/ToDo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ToDo/Styles/taskForm.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ToDo/Task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ToDo/newTaskForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Task.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToDo/Styles/task.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToDo/Tasks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ToDo/Styles/__variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToDo/Styles/__variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ToDo/Styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToDo/Styles/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ToDo/Styles/toDo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToDo/Styles/toDo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ToDo/ToDo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToDo/ToDo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToDo/Styles/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +42,12 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/ToDo/Styles" />
+      <recent name="$PROJECT_DIR$/src/components/ToDo" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -71,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633938845096</updated>
-      <workItem from="1633938847747" duration="9100000" />
+      <workItem from="1633938847747" duration="13993000" />
     </task>
     <servers />
   </component>

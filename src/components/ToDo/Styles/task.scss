@@ -1,0 +1,31 @@
+@import '_variables';
+
+.task {
+  background-color: $primary-color;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5em;
+  border-radius: 6px;
+}
+
+.task--active {
+  border: 3px $active-color solid;
+  .task__content {
+    text-decoration: line-through;
+  }
+}
+
+.task__wrapper {
+  text-align: left;
+}
+
+.task__content {
+  color: white;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.task__date {
+  font-size: 0.8rem;
+  color: $accent-color;
+}
