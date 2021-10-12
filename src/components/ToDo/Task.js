@@ -2,15 +2,15 @@ import React from 'react';
 import BinIcon from './bin.svg'
 import "./Styles/task.scss"
 
-const Task = () => {
+const Task = ({task, deleteTask, toggleTaskDone}) => {
     return (
         //dodaj task active na dbl click
-        <div className="task">
+        <div className={`task ${task.done ? 'task--active' : ''}`} onDoubleClick={() => toggleTaskDone(task.id)}>
             <div className="task__wrapper">
-                <p className="task__content">Do something</p>
-                <p className="task__date">Today</p>
+                <h3 className="task__content">{task.name}</h3>
+                <p className="task__date">{task.date}</p>
             </div>
-            <img src={BinIcon} alt="Remove Icon"/>
+            <img src={BinIcon} alt="Remove Icon" onClick={() => deleteTask(task.id)}/>
         </div>
     );
 };
