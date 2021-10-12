@@ -3,7 +3,7 @@ import PomodoroHeader from "./PomodoroHeader";
 import PomodoroContent from "./PomodoroContent";
 
 const Pomodoro = () => {
-    const [taskVisible, setAddTask] = useState(true)
+    const [taskVisible, setAddTask] = useState(false)
 
     const toggleTaskVisibility = () => {
         setAddTask(
