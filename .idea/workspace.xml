@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3ed6dcf-b33c-4550-98a9-4fd7738cfca3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635065927161</updated>
       <workItem from="1635065931918" duration="529000" />
-      <workItem from="1635066758814" duration="336000" />
+      <workItem from="1635066758814" duration="545000" />
     </task>
     <servers />
   </component>
