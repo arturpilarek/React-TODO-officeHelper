@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3ed6dcf-b33c-4550-98a9-4fd7738cfca3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/5386b762ce46be4b4919512bcefb1274-bin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/7d98e90bddf6a9d81bbc77f0a71cb986-pomodoro-final.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/f7f7234c10889939121b8018b87656a3-taskIcon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635065927161</updated>
       <workItem from="1635065931918" duration="529000" />
-      <workItem from="1635066758814" duration="73000" />
+      <workItem from="1635066758814" duration="336000" />
     </task>
     <servers />
   </component>
