@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-TODO-officeHelper/static/css/main.f5949f15.chunk.css",
+    "main.js": "/React-TODO-officeHelper/static/js/main.5d425774.chunk.js",
+    "main.js.map": "/React-TODO-officeHelper/static/js/main.5d425774.chunk.js.map",
+    "runtime-main.js": "/React-TODO-officeHelper/static/js/runtime-main.eef0f9fc.js",
+    "runtime-main.js.map": "/React-TODO-officeHelper/static/js/runtime-main.eef0f9fc.js.map",
+    "static/js/2.2ddb05d0.chunk.js": "/React-TODO-officeHelper/static/js/2.2ddb05d0.chunk.js",
+    "static/js/2.2ddb05d0.chunk.js.map": "/React-TODO-officeHelper/static/js/2.2ddb05d0.chunk.js.map",
+    "index.html": "/React-TODO-officeHelper/index.html",
+    "static/css/main.f5949f15.chunk.css.map": "/React-TODO-officeHelper/static/css/main.f5949f15.chunk.css.map",
+    "static/js/2.2ddb05d0.chunk.js.LICENSE.txt": "/React-TODO-officeHelper/static/js/2.2ddb05d0.chunk.js.LICENSE.txt",
+    "static/media/bin.5386b762.svg": "/React-TODO-officeHelper/static/media/bin.5386b762.svg",
+    "static/media/pomodoro-final.7d98e90b.svg": "/React-TODO-officeHelper/static/media/pomodoro-final.7d98e90b.svg",
+    "static/media/taskIcon.f7f7234c.svg": "/React-TODO-officeHelper/static/media/taskIcon.f7f7234c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eef0f9fc.js",
+    "static/js/2.2ddb05d0.chunk.js",
+    "static/css/main.f5949f15.chunk.css",
+    "static/js/main.5d425774.chunk.js"
+  ]
+}
