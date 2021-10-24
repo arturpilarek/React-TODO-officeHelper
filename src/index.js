@@ -3,10 +3,10 @@ import ReactDOM from "react-dom"
 import App from "./App";
 import "./components/ToDo/Styles/main.scss"
 
-const UserList = () => {
+const TaskManager = () => {
   return (
     <App />
   )
 }
 
-ReactDOM.render(<UserList />, document.getElementById("app"))
+ReactDOM.render(<TaskManager />, document.getElementById("root"))
